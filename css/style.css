@@ -2022,6 +2022,10 @@ button > a {
         display: none;
     }
 
+    #ecosystem > div > div.left > img {
+        width: 350px;
+    }
+
 }
 
 @media all and (max-width: 360px) {
@@ -2066,7 +2070,7 @@ button > a {
     }
 
     #ecosystem > div > div.left > img {
-        width: 290px;
+        width: 200px;
     }
 
     #ecosystem {
@@ -2366,7 +2370,7 @@ button > a {
     }
 
     #ecosystem > div > div.left > img {
-        width: 280px;
+        width: 200px;
     }
 
     #in-media > div > h1 {
