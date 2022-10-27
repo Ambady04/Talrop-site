@@ -2026,6 +2026,10 @@ button > a {
         width: 350px;
     }
 
+    #startup-school > div > div.left > img {
+        width: 350px;
+    }
+
 }
 
 @media all and (max-width: 360px) {
